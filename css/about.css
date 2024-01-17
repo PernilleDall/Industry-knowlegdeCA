@@ -1,0 +1,19 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.aboutme {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+  margin: 20px;
+}
+.aboutme-text {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}

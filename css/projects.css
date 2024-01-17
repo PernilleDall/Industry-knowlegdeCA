@@ -1,0 +1,7 @@
+.images {
+  background-image: url(../images/hennigolsen-main.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 250px;
+  height: 200px;
+}
