@@ -1,7 +1,17 @@
-.images {
-  background-image: url(../images/hennigolsen-main.jpg);
-  background-size: cover;
-  background-position: center;
-  width: 250px;
-  height: 200px;
+.projects-list {
+  display: grid;
+  gap: 40px;
+  grid-template-columns: 1fr 1fr;
+  margin: 40px 0;
+}
+
+@media (max-width: 768px) {
+  .projects-list {
+    grid-template-columns: 1fr;
+  }
+}
+@media (min-width: 1500px) {
+  .projects-list {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
 }

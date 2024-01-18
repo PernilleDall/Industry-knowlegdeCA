@@ -1,0 +1,27 @@
+.specific-project {
+  display: flex;
+  align-items: center;
+  max-width: 1000px;
+}
+@media (max-width: 768px) {
+  .specific-project {
+    flex-direction: column;
+  }
+}
+
+.specific-project-text {
+  padding: 40px;
+}
+
+.specific-project-image {
+  display: flex;
+  align-items: center;
+}
+.specific-project-image img {
+  object-fit: cover;
+  max-width: 360px;
+}
+
+.fa-solid {
+  font-size: 30px;
+}
