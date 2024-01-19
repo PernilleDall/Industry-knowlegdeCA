@@ -22,7 +22,7 @@
 .specific-project-image img,
 #modal-carousel-image {
   object-fit: cover;
-  max-width: 360px;
+  width: 360px;
   height: 340px;
 }
 
