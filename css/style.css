@@ -8,11 +8,9 @@
 
 header {
   width: 100%;
-  /* height: 100px; */
   display: flex;
   justify-content: space-between;
   align-items: center;
-  /* padding: 100px; */
 }
 
 .navbar ul {
@@ -20,9 +18,8 @@ header {
 }
 
 .navbar ul li a {
-  /* display: block; */
-  font-size: 16px;
-  padding: 10px 25px;
+  font-size: 14px;
+  padding: 10px 10px;
   text-transform: uppercase;
   color: black;
 }
@@ -41,7 +38,7 @@ hr {
 }
 
 .logo img {
-  height: 100px;
+  height: 90px;
 }
 
 .biglogo {
@@ -51,11 +48,8 @@ hr {
   background-image: url(../svg/logo.svg);
   background-size: cover;
   background-position: center;
-  /* color: black; */
   width: 913px;
   height: 650px;
-  /* width: 100px;
-  height: 100px; */
 }
 
 @media (max-width: 768px) {
@@ -76,4 +70,11 @@ footer {
   justify-content: space-between;
   align-items: center;
   padding: 0 100px;
+}
+
+@media (max-width: 768px) {
+  .footer {
+    flex-direction: column;
+    justify-content: space-around;
+  }
 }
