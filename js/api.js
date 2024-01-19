@@ -6,15 +6,15 @@ export const projects = [
     image: [
       {
         url: "../images/hennigolsen-main.jpg",
-        alt: "Bilde av godisiskrem",
+        alt: "Godisiskrem",
       },
       {
         url: "../images/hennigolsen1.jpg",
-        alt: "Bilde av moodboard",
+        alt: "Moodboard",
       },
       {
         url: "../images/hennigolsen2.jpg",
-        alt: "Bilde av designprosessen",
+        alt: "Designprosessen",
       },
       {
         url: "../images/hennigolsen3.jpg",
@@ -29,23 +29,23 @@ export const projects = [
     image: [
       {
         url: "../images/id-main.jpg",
-        alt: "Hen1n",
+        alt: "Portrettbilde",
       },
       {
         url: "../images/id1.jpg",
-        alt: "He2n",
+        alt: "Portrettbilde med farger",
       },
       {
         url: "../images/id2.jpg",
-        alt: "H3n",
+        alt: "Portrettbilde med blomst foran øyet",
       },
       {
         url: "../images/id3.jpg",
-        alt: "H4",
+        alt: "Portrettbilde med en gren foran øyet",
       },
       {
         url: "../images/id4.jpg",
-        alt: "H4",
+        alt: "Portrettbilde",
       },
     ],
   },
@@ -56,19 +56,16 @@ export const projects = [
     image: [
       {
         url: "../images/SOH-main.jpg",
-        alt: "Sound of Happiness",
+        alt: "Person med logo på genseren",
       },
-      {
-        url: "../images/soh1.jpg",
-        alt: "Sound of Happiness",
-      },
+
       {
         url: "../images/soh2.jpg",
-        alt: "Sound of Happiness",
+        alt: "Happy Days butikklokale",
       },
       {
         url: "../images/soh3.jpg",
-        alt: "Sound of Happiness",
+        alt: "Logovarianter",
       },
     ],
   },
@@ -79,19 +76,16 @@ export const projects = [
     image: [
       {
         url: "../images/Frokostblanding-main.jpg",
-        alt: "Frokostblanding",
+        alt: "Boks med Crunchy Crunch-frokostblanding",
       },
       {
         url: "../images/frokostblanding1.jpg",
-        alt: "Frokostblanding",
+        alt: "Crunchy Crunch-frokostblanding",
       },
-      {
-        url: "../images/frokostblanding2.jpg",
-        alt: "Frokostblanding",
-      },
+
       {
         url: "../images/frokostblanding3.jpg",
-        alt: "Frokostblanding",
+        alt: "Bakside av boks med Crunchy Crunch-frokostblanding",
       },
     ],
   },
@@ -102,27 +96,27 @@ export const projects = [
     image: [
       {
         url: "../images/Mockups-main.jpg",
-        alt: "Mockups",
+        alt: "To plakater",
       },
       {
         url: "../images/mockups1.jpg",
-        alt: "Mockups",
+        alt: "Plakat",
       },
       {
         url: "../images/mockups2.jpg",
-        alt: "Mockups",
+        alt: "Plakat",
       },
       {
         url: "../images/mockups3.jpg",
-        alt: "Mockups",
+        alt: "Plakat",
       },
       {
         url: "../images/mockups4.jpg",
-        alt: "Mockups",
+        alt: "Designprosessen",
       },
       {
         url: "../images/mockups5.jpg",
-        alt: "Mockups",
+        alt: "Mockup hefte",
       },
     ],
   },
@@ -133,15 +127,15 @@ export const projects = [
     image: [
       {
         url: "../images/fotografier-main.jpg",
-        alt: "Fotografi prosjekt",
+        alt: "Person med lysring rundt hode",
       },
       {
         url: "../images/fotografier1.jpg",
-        alt: "Fotografi prosjekt",
+        alt: "Hund som kikker på en katt gjennom en dørsprekk",
       },
       {
         url: "../images/fotografier2.jpg",
-        alt: "Fotografi prosjekt",
+        alt: "",
       },
       {
         url: "../images/fotografier4.jpg",
@@ -169,7 +163,7 @@ export const projects = [
       },
       {
         url: "../images/designfestivalen4.jpg",
-        alt: "Designfestivalen Plakat",
+        alt: "Designprosessen",
       },
     ],
   },
@@ -180,15 +174,15 @@ export const projects = [
     image: [
       {
         url: "../images/restaurant-main2.jpg",
-        alt: "Logo - Restaurant: Åkeren",
+        alt: "Logo på vindu",
       },
       {
         url: "../images/restaurant1.jpg",
-        alt: "Logo - Restaurant: Åkeren",
+        alt: "Logovarianter",
       },
       {
         url: "../images/restaurant2.jpg",
-        alt: "Logo - Restaurant: Åkeren",
+        alt: "Logo på produkter",
       },
     ],
   },
@@ -199,23 +193,23 @@ export const projects = [
     image: [
       {
         url: "../images/grafiskdesign-main.jpg",
-        alt: "Grafisk design",
+        alt: "Tegning",
       },
       {
         url: "../images/grafiskdesign1.jpg",
-        alt: "Grafisk design",
+        alt: "Hefte med tegning og designprosess",
       },
       {
         url: "../images/grafiskdesign2.jpg",
-        alt: "Grafisk design",
+        alt: "Hefte med designprosess",
       },
       {
         url: "../images/grafiskdesign3.jpg",
-        alt: "Grafisk design",
+        alt: "Hefte med designprosess",
       },
       {
         url: "../images/grafiskdesign4.jpg",
-        alt: "Grafisk design",
+        alt: "Designprosess",
       },
     ],
   },
